@@ -5,9 +5,7 @@
 <h3 align="center">Undergraduate | Full-Stack Developer | Tech Geek</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cheedalla-sathvik-1b9423257/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sathvik-blue?style=flat&logo=linkedin" />
-</a>
+  <a href="https://www.linkedin.com/in/cheedalla-sathvik-1b9423257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sathvik-blue?style=flat&logo=linkedin"/<a>
   <a href="https://leetcode.com/u/sathvik31/"><img src="https://img.shields.io/badge/LeetCode-sathvik31-orange?style=flat-square&logo=LeetCode" /></a>
   <a href="mailto:sathvikcheedalla2004@gmail.com"><img src="https://img.shields.io/badge/Email-sathvikcheedalla2004@gmail.com-red?style=flat-square&logo=gmail" /></a>
 </p>
